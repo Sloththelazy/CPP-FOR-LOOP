@@ -15,6 +15,6 @@ int main ()
         {
             cout<< h;
         }
-        cout <<endl;
+        cout <<'\n';
     }
 }
